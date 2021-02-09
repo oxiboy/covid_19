@@ -1,0 +1,10 @@
+name: covid
+title:
+username:
+account: oxiboy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3604782
+bundleId: 4198589
+url: https://oxiboy.shinyapps.io/covid/
+when: 1612833816.0359
